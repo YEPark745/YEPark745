@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **YEPark745/YEPark745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I like adventure and new experiences and I’m unafraid to step out out of comfort zone. I have knowledge of both computer programming (C++, C#, Java, Spring boot, Spring MVC. IDE - Intellij, Eclipse, Visual Studio, PhpStorm) and financial analysis.
